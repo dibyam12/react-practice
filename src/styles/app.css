@@ -1,0 +1,54 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.contact_adder {
+  background-color: rgb(175, 171, 164);
+  padding: 15px;
+  margin: 2%;
+  border-radius: 15px;
+}
+
+.contact {
+  background-color: #7e92aa;
+  border-radius: 15px;
+  text-align: center;
+}
+
+.contact_list {
+  background-color: #7e92aa;
+  padding: 15px;
+  margin: 2%;
+  border-radius: 15px;
+}
+body {
+  margin: 0 px;
+  padding: 0px;
+}
+
+.nav_bar {
+  background: #7e92aa;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+input {
+  border: 0px;
+  padding: 10px;
+  margin: 2px;
+  border-radius: 10px;
+}
+
+button {
+  border: 0px;
+  padding: 10px;
+  margin: 2px;
+  border-radius: 10px;
+  background-color: #7e92aa;
+  color: white;
+  font-stretch: wider;
+  font-size: medium;
+}
